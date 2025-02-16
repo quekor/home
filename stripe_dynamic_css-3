@@ -1,0 +1,267 @@
+/*CACHED*//******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-6e767255-mvttdelo version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo  .preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						padding-bottom: 0px;
+						
+						text-align: center;
+						
+						max-width: 550px;
+						
+						padding-right: 0px;
+						
+						margin-top: 30px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 30px;
+						
+						background-color: rgba(255, 255, 255, 0);
+						
+						padding-left: 0px;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-divider  {
+		
+						border-bottom-width: 1px;
+						
+						border-color: rgb(243, 243, 243);
+						
+						width: 10%;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .inner-pic  {
+		
+						opacity: 0.49;
+						
+						color: rgb(0, 0, 0);
+						
+		    			-webkit-filter: brightness(0.8);	
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-subtitle-holder  {
+		
+						max-width: 1050px;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .background-div  {
+			
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-title  ,  .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-body h1  { 
+						line-height: 0.9em;
+						font-size:calc( 10px + ( 14rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.0em;
+						
+						font-weight: bold;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Montserrat;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-item-links span  ,  .style-6e767255-imswiule .style-6e767255-mvttdelo #sr-basket-widget *  { 
+						border-width: 2px;
+						font-size:calc( 10px + ( 15rem - 10rem ) );
+						color: rgb(177, 177, 177);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(177, 177, 177);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 30px;
+						
+						margin-top: 20px;
+						
+						padding-left: 30px;
+						
+						border-radius: 18px;
+						
+						padding-top: 10px;
+						
+						font-family: Arial;
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-element.icon-source  {
+		
+						margin-bottom: 15px;
+						
+						width: 60px;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .background-image-div  {
+		
+						color: rgb(0, 0, 0);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-item-links span:before  ,  .style-6e767255-imswiule .style-6e767255-mvttdelo .effect-tester  { 
+						background-color: rgb(177, 177, 177);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-body-holder  {
+		
+						max-width: 800px;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: middle;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-item-links span:hover  ,  .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						
+						background-color: rgb(177, 177, 177);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .inner-pic-holder  {
+		
+						background-color: rgb(101, 103, 101);
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-icon-holder  {
+		
+						margin-bottom: 40px;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-body  {
+		
+						line-height: 1.8em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(227, 227, 227);
+						
+						letter-spacing: -0.0em;
+						
+						max-width: 800px;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Arial;
+							
+		}
+	
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .middle_layout .helper-div  ,  .style-6e767255-imswiule .style-6e767255-mvttdelo .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;
+							
+		}
+	 .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-subtitle  ,  .style-6e767255-imswiule .style-6e767255-mvttdelo .preview-body h2  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 10rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(227, 227, 227);
+						
+						letter-spacing: 0.0em;
+						
+						margin-right: 0px;
+						
+						margin-top: 10px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 10px;
+						
+						line-height: 1.8em;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-6e767255-mvttdelo #vbid-6e767255-asbb5lol .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-6e767255-mvttdelo #vbid-6e767255-aprowxc7 .preview-content-holder{
+				
+							text-align : center;
+					
+				}
+
+
+ .style-6e767255-mvttdelo #vbid-6e767255-bzz81nb1.inner-pic{
+				
+							background-position : 50% 50%;
+					
+				} .style-6e767255-mvttdelo #vbid-6e767255-2ssha0wk.inner-pic{
+				
+							background-position : 49.2685470581055% 69.2805786132813%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+ .style-6e767255-mvttdelo #vbid-6e767255-asbb5lol .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-6e767255-mvttdelo #vbid-6e767255-aprowxc7 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
